@@ -1,5 +1,8 @@
 ## Tuya 16A Plug WG-08 - ESP8285/TYWE2S -> Flash ESPHome
 
+- connect RX to TX and TX to RX on UART/TLL programmer
+- connect GPIO0+GND for enable flash mode
+
 ![Plug](https://github.com/peca2345/Tuya-16A-Plug-WG-08---flash-FW-ESP8285/blob/main/IMG/Tuya16APlug.png?raw=true)
 
 ![Pinout](https://github.com/peca2345/Tuya-16A-Plug-WG-08---flash-FW-ESP8285/blob/main/IMG/esp8285_pinout2.png?raw=true)
