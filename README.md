@@ -1,4 +1,4 @@
-## Tuya 16A Plug WG-08 - flash FW ESP8285 - TYWE2S - ESPHome
+## Tuya 16A Plug WG-08 - ESP8285/TYWE2S -> Flash ESPHome
 
 ![Plug](https://github.com/peca2345/Tuya-16A-Plug-WG-08---flash-FW-ESP8285/blob/main/IMG/Tuya16APlug.png?raw=true)
 
